@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="430" viewBox="0 0 560 430" fill="none">
+  <rect x="35" y="26" width="490" height="360" rx="36" fill="#EAF5F1"/>
+  <circle cx="444" cy="93" r="35" fill="#D2E9E0"/>
+  <circle cx="103" cy="314" r="22" fill="#D2E9E0"/>
+  <rect x="90" y="73" width="380" height="254" rx="22" fill="#FFFFFF" stroke="#D4E5DF" stroke-width="2"/>
+  <rect x="115" y="98" width="143" height="202" rx="13" fill="#F3F8F5"/>
+  <rect x="133" y="119" width="108" height="65" rx="7" fill="#D9EAE3"/>
+  <path d="M146 169L165 145L183 159L201 132L228 169" stroke="#6AAE9D" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="133" y="199" width="87" height="7" rx="3.5" fill="#C7DAD3"/>
+  <rect x="133" y="215" width="69" height="7" rx="3.5" fill="#D6E5DF"/>
+  <rect x="133" y="243" width="106" height="37" rx="8" fill="#0A7168"/>
+  <path d="M151 261H221" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <rect x="281" y="101" width="161" height="204" rx="12" fill="#F7FAF8" stroke="#E1ECE7"/>
+  <rect x="300" y="119" width="124" height="92" rx="9" fill="#DCEFE8"/>
+  <rect x="317" y="137" width="90" height="57" rx="6" fill="#B7DBCE"/>
+  <circle cx="362" cy="165" r="19" fill="#0A7168" fill-opacity=".8"/>
+  <circle cx="362" cy="165" r="9" fill="#EAF5F1"/>
+  <rect x="300" y="229" width="106" height="8" rx="4" fill="#C5DCD3"/>
+  <rect x="300" y="246" width="124" height="8" rx="4" fill="#D9E7E1"/>
+  <rect x="300" y="263" width="75" height="8" rx="4" fill="#D9E7E1"/>
+  <circle cx="440" cy="307" r="40" fill="#0A7168"/>
+  <path d="M440 286V328M419 307H461" stroke="white" stroke-width="5" stroke-linecap="round"/>
+  <path d="M82 110H56M69 97V123" stroke="#8BBFAE" stroke-width="4" stroke-linecap="round"/>
+  <path d="M463 222H489M476 209V235" stroke="#8BBFAE" stroke-width="4" stroke-linecap="round"/>
+  <path d="M105 362C137 344 165 343 190 355" stroke="#9CCABB" stroke-width="3" stroke-linecap="round" stroke-dasharray="4 8"/>
+  <path d="M359 49C379 38 397 41 410 54" stroke="#9CCABB" stroke-width="3" stroke-linecap="round" stroke-dasharray="4 8"/>
+</svg>
